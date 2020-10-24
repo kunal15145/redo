@@ -12,5 +12,5 @@ $ cd redo; and ./install.sh
 ## Uninstall
 
 ```fish
-$ cd redo; and ./uninstall.fish
+$ cd redo; and ./uninstall.sh
 ```

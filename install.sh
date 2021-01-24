@@ -1,2 +1,2 @@
 #!/bin/bash
-mv functions/redo.fish ~/.config/fish/functions/
+cp functions/redo.fish ~/.config/fish/functions/
